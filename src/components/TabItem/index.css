@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list-item {
+  margin-right: 10px;
+}
+.tab-button {
+  color: #7b8794;
+  background-color: transparent;
+  font-weight: 600;
+  font-size: 13px;
+  border-bottom: 2px solid #7b8794;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+.active {
+  border-bottom: 2px solid #2563eb;
+}
